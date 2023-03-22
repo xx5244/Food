@@ -45,5 +45,5 @@
     3. 戚風蛋糕在烤得過程會先往上膨發，再往回縮一點，所以，烤得時間太久會回縮太快，烤得時間太短，中心會還沒熟(除非用專用中空的模具)，烤得溫度太高會膨發裂的比較嚴重，烤得溫度太低會較為濕潤膨發也不會那麼好
   
   + ### 參考資料
-    [參考影片](https://youtu.be/SeswNTiY-gs)
-    [參考影片](https://youtu.be/t6e-anMQYgc)
+    [免烤箱巧克力蛋糕](https://youtu.be/SeswNTiY-gs)
+    [哪個溫度烤戚風最好](https://youtu.be/t6e-anMQYgc)
